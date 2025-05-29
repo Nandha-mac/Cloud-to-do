@@ -32,7 +32,7 @@ cloud-to-do/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/cloud-to-do.git
+[git clone https://github.com/your-username/cloud-to-do.git](https://github.com/Nandha-mac/Cloud-to-do.git)
 cd cloud-to-do
 ```
 
